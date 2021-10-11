@@ -1,2 +1,4 @@
-## support and contact
+## Contact
 > under maintenance
+
+_as soon as possible_
