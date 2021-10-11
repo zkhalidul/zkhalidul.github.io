@@ -33,4 +33,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zkhalidul/zkhalidul.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support and Contact
-[Support and Contact](about/contact.md)
+[Support and Contact](/about/contact.md)
