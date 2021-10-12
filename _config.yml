@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: zkhalidul
-description: ular lari lurus
+github:
+is_project_page: false
